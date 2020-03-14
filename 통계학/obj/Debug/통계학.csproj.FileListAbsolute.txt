@@ -1,0 +1,6 @@
+C:\Users\SOM\source\repos\통계학\통계학\bin\Debug\통계학.exe.config
+C:\Users\SOM\source\repos\통계학\통계학\bin\Debug\통계학.exe
+C:\Users\SOM\source\repos\통계학\통계학\bin\Debug\통계학.pdb
+C:\Users\SOM\source\repos\통계학\통계학\obj\Debug\통계학.exe
+C:\Users\SOM\source\repos\통계학\통계학\obj\Debug\통계학.pdb
+C:\Users\SOM\source\repos\통계학\통계학\obj\Debug\통계학.csprojAssemblyReference.cache
